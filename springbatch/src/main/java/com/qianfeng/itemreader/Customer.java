@@ -1,5 +1,6 @@
 package com.qianfeng.itemreader;
 
+// gitテスト
 public class Customer {
 
 	private Long id;
